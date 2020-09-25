@@ -1,0 +1,3 @@
+[GIN-VUE-ADMIN]2020/09/17 - 22:15:53.828	[31merror[0m	register table failed	{"err": "Error 1067: Invalid default value for 'nick_name'"}
+[GIN-VUE-ADMIN]2020/09/17 - 22:17:04.826	[31merror[0m	register table failed	{"err": "Error 1067: Invalid default value for 'nick_name'"}
+[GIN-VUE-ADMIN]2020/09/17 - 22:18:22.858	[31merror[0m	register table failed	{"err": "Error 1067: Invalid default value for 'nick_name'"}
